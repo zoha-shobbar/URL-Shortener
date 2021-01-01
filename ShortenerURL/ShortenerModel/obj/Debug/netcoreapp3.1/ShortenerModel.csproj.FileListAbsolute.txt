@@ -1,0 +1,16 @@
+E:\Projects\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.deps.json
+E:\Projects\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.dll
+E:\Projects\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.csprojAssemblyReference.cache
+E:\Projects\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.AssemblyInfoInputs.cache
+E:\Projects\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.AssemblyInfo.cs
+E:\Projects\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.pdb
+E:\Projects\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.dll
+E:\Projects\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.pdb
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.deps.json
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.dll
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\bin\Debug\netcoreapp3.1\ShortenerModel.pdb
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.csprojAssemblyReference.cache
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.AssemblyInfoInputs.cache
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.AssemblyInfo.cs
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.dll
+E:\Projects\shortenerURL-project\ShortenerURL\ShortenerModel\obj\Debug\netcoreapp3.1\ShortenerModel.pdb

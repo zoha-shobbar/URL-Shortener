@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerURL\\ShortenerURL.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\ZohaShobbar\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZohaShobbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj": {
+                "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\ZohaShobbar\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZohaShobbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Repository\\Repository.csproj"
+              },
+              "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj": {
+                "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj",
+        "projectName": "ShortenerModel",
+        "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj",
+        "packagesPath": "C:\\Users\\ZohaShobbar\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZohaShobbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerURL\\ShortenerURL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerURL\\ShortenerURL.csproj",
+        "projectName": "ShortenerURL",
+        "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerURL\\ShortenerURL.csproj",
+        "packagesPath": "C:\\Users\\ZohaShobbar\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerURL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZohaShobbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\Service.csproj": {
+                "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\Service\\Service.csproj"
+              },
+              "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj": {
+                "projectPath": "E:\\Projects\\shortenerURL-project\\ShortenerURL\\ShortenerModel\\ShortenerModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
